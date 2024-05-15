@@ -10,4 +10,4 @@ print(cource)
 print(cource[0])
 print(cource[1])
 print(cource[0:4])
-             
+      print(cource)       
